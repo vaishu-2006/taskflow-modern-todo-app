@@ -133,3 +133,6 @@ Example:
 ## 👩‍💻 Author
 
 **Vaishnavi P**
+
+ **Project Demo Video:**  
+[Watch the Demo](https://drive.google.com/file/d/1DbJfpybOOmmi-pTHRAiFf_8smxVHCk_X/view?usp=sharing)
