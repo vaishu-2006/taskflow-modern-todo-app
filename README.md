@@ -63,7 +63,7 @@ TaskFlow/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow-modern-todo-app.git
+https://github.com/vaishu-2006/To-Do-List-App.git
 ```
 
 Go to the project folder
