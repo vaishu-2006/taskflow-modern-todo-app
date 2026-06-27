@@ -66,12 +66,6 @@ Clone the repository
 https://github.com/vaishu-2006/To-Do-List-App.git
 ```
 
-Go to the project folder
-
-```bash
-cd taskflow-modern-todo-app
-```
-
 Install dependencies
 
 ```bash
